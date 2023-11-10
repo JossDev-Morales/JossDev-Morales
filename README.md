@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jossdev-js/"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-stack+Dev;Self-taught+Front-End+Dev;Logic+Back-end+Dev;Designer;Active+Learner/Researcher;Love+to+learn+new+stuffs"></a>
+  <a href="https://www.linkedin.com/in/jossdev-js/"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=c86dfe&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-stack+Dev;Self-taught+Front-End+Dev;Logic+Back-end+Dev;Designer;Active+Learner/Researcher;Love+to+learn+new+stuffs"></a>
 </p>
 
 <br>
