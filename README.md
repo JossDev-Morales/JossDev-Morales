@@ -16,18 +16,18 @@
 
 ![Static Badge](https://img.shields.io/badge/Javascript-1C353D?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1C353D) ![Static Badge](https://img.shields.io/badge/React-1C353D?style=for-the-badge&logo=React&logoColor=white&labelColor=1C353D) ![Static Badge](https://img.shields.io/badge/Node-1C353D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1C353D) ![Static Badge](https://img.shields.io/badge/Typescript-1C353D?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1C353D) ![Static Badge](https://img.shields.io/badge/UI%2FUX-1C353D?style=for-the-badge&logo=figma&logoColor=white&labelColor=1C353D) ![Static Badge](https://img.shields.io/badge/SQL_Databases-1C353D?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1C353D) ![Static Badge](https://img.shields.io/badge/Document_Databases-1C353D?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1C353D)
 
-[![Static Badge](https://img.shields.io/badge/Portfolio-%23fe004a?style=social&logo=netlify&logoColor=%23fe004a&labelColor=%23fe004a&color=%23fe004a)](https://www.npmjs.com/package/bignumber.io)
+[![Static Badge](https://img.shields.io/badge/Portfolio-%23fe004a?style=social&logo=netlify&logoColor=%23fe004a&labelColor=%23fe004a&color=%23fe004a)](https://jossdev.netlify.app/)
 
 
 **Creator of**:
 
 [![Static Badge](https://img.shields.io/badge/Bignumber.io-%23cb0000?style=for-the-badge&logo=npm&label=Package&labelColor=%230d1117)
-](https://www.npmjs.com/package/number-converter.io) 
+](https://www.npmjs.com/package/bignumber.io) 
 
 and 
 
 [![Static Badge](https://img.shields.io/badge/Number--converter.io-%23cb0000?style=for-the-badge&logo=npm&label=Package&labelColor=%230d1117)
-]()
+](https://www.npmjs.com/package/number-converter.io)
 
 I'm mainly a developer/programmer but before that, I'm a great person, young, creative, sociable, empathetic and charismatic.
 
